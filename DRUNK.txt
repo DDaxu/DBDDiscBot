@@ -1,0 +1,28 @@
+DRUNK BY DAYLIGHT
+
+Blow gen = 2 kulis
+Billy or spirit = 2 kulis
+Mori = 2 kulis
+Get Moried = 4 kulis
+Waste God pallet = 5 kulis
+Use God pallet = 2 kulis
+Cleanse Haunted grounds = 4 kulis
+Get hooked in the basement = 3 kulis
+If both get hooked in the basement = 5 kulis
+Use pallet and get hit = 1 kuli
+Get hit on window vault = 1 kuli
+Miss DS = 4 kulis
+Deadhard on CD and still die = 2 kulis
+Bloodparty streamer = 1 kuli
+Farming killer = 2 kulis
+Waste pallet = 1 kuli
+Die to Piggy trap = 5 kulis
+Pop Hags trap when saving = 2 kulis
+Run into trappers trap = 1 kuli
+Run into trappers trap while not chased = 2 kulis
+Trapper runs into his own trap = 3 kuli 
+Die first = 3 kulis
+Rage DC = 5 kulis
+Get Grabbed by the killer = 5 kulis
+Derank = 2 kulis
+
