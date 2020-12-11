@@ -1,0 +1,4 @@
+1. Go to https://discord.com/developers/applications and make yourself a new bot
+2. rename .env_sample to .env and place your bot token there.
+3. Add your bot to discord server
+4. run node index.js and try !commands command.
