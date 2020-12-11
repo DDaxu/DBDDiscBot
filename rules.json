@@ -11,117 +11,112 @@
   },
   {
     "ruleID": 3,
-    "rule": "Mori",
-    "amount": 2
-  },
-  {
-    "ruleID": 4,
     "rule": "Get Moried",
     "amount": 4
   },
   {
-    "ruleID": 5,
+    "ruleID": 4,
     "rule": "Waste God pallet",
     "amount": 5
   },
   {
-    "ruleID": 6,
+    "ruleID": 5,
     "rule": "Cleanse Haunted grounds",
     "amount": 4
   },
   {
-    "ruleID": 7,
+    "ruleID": 6,
     "rule": "Get hooked in the basement",
     "amount": 3
   },
   {
-    "ruleID": 8,
+    "ruleID": 7,
     "rule": "If both get hooked in the basement",
     "amount": 5
   },
   {
-    "ruleID": 9,
+    "ruleID": 8,
     "rule": "Use pallet and get hit ",
     "amount": 1
   },
   {
-    "ruleID": 10,
+    "ruleID": 9,
     "rule": "Get hit on window vault",
     "amount": 1
   },
   {
-    "ruleID": 11,
+    "ruleID": 10,
     "rule": "Miss DS",
     "amount": 4
   },
   {
-    "ruleID": 12,
+    "ruleID": 11,
     "rule": "Deadhard on CD and still die",
     "amount": 2
   },
   {
-    "ruleID": 13,
+    "ruleID": 12,
     "rule": "Bloodparty streamer",
     "amount": 1
   },
   {
-    "ruleID": 14,
+    "ruleID": 13,
     "rule": "Farming killer",
     "amount": 2
   },
   {
-    "ruleID": 15,
+    "ruleID": 14,
     "rule": "Waste pallet",
     "amount": 1
   },
   {
-    "ruleID": 16,
+    "ruleID": 15,
     "rule": "Die to Piggy trap",
     "amount": 5
   },
   {
-    "ruleID": 17,
+    "ruleID": 16,
     "rule": "Pop Hags trap when saving",
     "amount": 2
   },
   {
-    "ruleID": 18,
+    "ruleID": 17,
     "rule": "Run into trappers trap",
     "amount": 1
   },
   {
-    "ruleID": 19,
+    "ruleID": 18,
     "rule": "Run into trappers trap while not chased",
     "amount": 2
   },
   {
-    "ruleID": 20,
+    "ruleID": 19,
     "rule": "Trapper runs into his own trap",
     "amount": 3
   },
   {
-    "ruleID": 21,
+    "ruleID": 20,
     "rule": "Die first",
     "amount": 3
   },
   {
-    "ruleID": 22,
+    "ruleID": 21,
     "rule": "Rage DC",
     "amount": 5
   },
   {
-    "ruleID": 23,
+    "ruleID": 22,
     "rule": "Get Grabbed by the killer",
     "amount": 5
   },
   {
-    "ruleID": 24,
+    "ruleID": 23,
     "rule": "Derank",
     "amount": 2
   },
   {
-    "ruleID": 25,
-    "rule": "Use God pallet",
+    "ruleID": 24,
+    "rule": "Use god pallet",
     "amount": 2
   }
 ]
